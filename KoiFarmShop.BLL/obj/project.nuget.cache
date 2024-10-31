@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I+S1Wpq0/PphKNjylEOeneR+/Jw3eVFomYojv0GmTaz7BnySbKJRHfuSEWr1gUBumIyEyuOuUxqRjErVWhzEQg==",
+  "dgSpecHash": "H1yB0nYJ5nE28KxmjrIbP3t/dMkjpg6BGS3hhAwoNigc0G+P71gE3dps56K5mVF5KTGESctgHKAgZhPhj9cV1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\2024KoiFarmShop\\KoiFarmShop.BLL\\KoiFarmShop.BLL.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\PRN212-Group2-KoiFarmShop\\KoiFarmShop.BLL\\KoiFarmShop.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
