@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\bin\Debug\net8.0\KoiFarmShop.BLL.deps.json
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\bin\Debug\net8.0\KoiFarmShop.BLL.dll
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\bin\Debug\net8.0\KoiFarmShop.BLL.pdb
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\bin\Debug\net8.0\KoiFarmShop.DAL.dll
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\bin\Debug\net8.0\KoiFarmShop.DAL.pdb
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\obj\Debug\net8.0\KoiFarmShop.BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\obj\Debug\net8.0\KoiFarmShop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\obj\Debug\net8.0\KoiFarmShop.BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\obj\Debug\net8.0\KoiFarmShop.BLL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\obj\Debug\net8.0\KoiFarmShop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\obj\Debug\net8.0\KoiFarmS.0F34C517.Up2Date
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\obj\Debug\net8.0\KoiFarmShop.BLL.dll
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\obj\Debug\net8.0\refint\KoiFarmShop.BLL.dll
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\obj\Debug\net8.0\KoiFarmShop.BLL.pdb
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.BLL\obj\Debug\net8.0\ref\KoiFarmShop.BLL.dll
