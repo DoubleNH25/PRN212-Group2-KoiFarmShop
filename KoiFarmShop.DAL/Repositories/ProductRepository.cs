@@ -25,7 +25,7 @@ namespace KoiFarmShop.DAL.Repositories
                 throw new Exception(ex.Message);
             }
         }
-        public Product? GetProductById(int id)
+        public Product? GetProductById(int id)  
         {
             using var db = new Fu2024koiFarmShopContext();
             return db.Products.FirstOrDefault(b => b.ProductId.Equals(id));
