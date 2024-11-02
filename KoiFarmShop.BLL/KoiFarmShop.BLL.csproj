@@ -10,9 +10,4 @@
     <ProjectReference Include="..\KoiFarmShop.DAL\KoiFarmShop.DAL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Interface\" />
-    <Folder Include="Service\" />
-  </ItemGroup>
-
 </Project>
