@@ -1,6 +1,8 @@
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\bin\Debug\net8.0\KoiFarmShop.DAL.deps.json
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\bin\Debug\net8.0\KoiFarmShop.DAL.runtimeconfig.json
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\bin\Debug\net8.0\KoiFarmShop.DAL.dll
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\bin\Debug\net8.0\KoiFarmShop.DAL.pdb
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\KoiFarmShop.DAL.csproj.AssemblyReference.cache
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\KoiFarmShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\KoiFarmShop.DAL.AssemblyInfoInputs.cache
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\KoiFarmShop.DAL.AssemblyInfo.cs
@@ -8,7 +10,5 @@ C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\Koi
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\KoiFarmShop.DAL.dll
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\refint\KoiFarmShop.DAL.dll
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\KoiFarmShop.DAL.pdb
-C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\ref\KoiFarmShop.DAL.dll
-C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\bin\Debug\net8.0\KoiFarmShop.DAL.runtimeconfig.json
-C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\KoiFarmShop.DAL.csproj.AssemblyReference.cache
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\KoiFarmShop.DAL.genruntimeconfig.cache
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop.DAL\obj\Debug\net8.0\ref\KoiFarmShop.DAL.dll

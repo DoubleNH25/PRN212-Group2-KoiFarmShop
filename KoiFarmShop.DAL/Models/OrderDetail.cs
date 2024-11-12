@@ -5,6 +5,8 @@ namespace KoiFarmShop.DAL.Models;
 
 public partial class OrderDetail
 {
+    public int OrderDetailId { get; set; }
+
     public int OrderId { get; set; }
 
     public int ProductId { get; set; }
@@ -18,4 +20,17 @@ public partial class OrderDetail
     public virtual Order Order { get; set; } = null!;
 
     public virtual Product Product { get; set; } = null!;
+    public string StatusDetailDescription
+    {
+        get
+        {
+            return Status switch
+            {
+                0 => "Cancel",
+                1 => "Accepted",
+                2 => "Pending",
+                _ => "Unknown"
+            };
+        }
+    }
 }

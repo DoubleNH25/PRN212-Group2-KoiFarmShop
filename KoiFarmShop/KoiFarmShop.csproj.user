@@ -7,12 +7,132 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="AdminManager\ManageKoiBreedsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminManager\ManageOrderDetailWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminManager\ManageOrderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminManager\ManageProductWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminManager\ManageShippingWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminManager\ManageSupplierWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminManager\ManageUserWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminManager\SaveWindow\SaveKoiBreedWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminManager\SaveWindow\SaveProductWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminManager\SaveWindow\SaveSupplierWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminManager\SaveWindow\SaveUserWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Customer\CustomerMainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Customer\CustomerProfileWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Customer\OrderDetailsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Customer\OrdersWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Customer\ShippingDetailWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Customer\ViewProductWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegisterWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Staff\ExecuteShippingProgressWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="AdminManager\ManageKoiBreedsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminManager\ManageOrderDetailWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminManager\ManageOrderWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminManager\ManageProductWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminManager\ManageShippingWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminManager\ManageSupplierWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminManager\ManageUserWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminManager\SaveWindow\SaveKoiBreedWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminManager\SaveWindow\SaveProductWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminManager\SaveWindow\SaveSupplierWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminManager\SaveWindow\SaveUserWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Customer\CustomerMainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Customer\CustomerProfileWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Customer\OrderDetailsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Customer\OrdersWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Customer\ShippingDetailWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Customer\ViewProductWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegisterWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Staff\ExecuteShippingProgressWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop\App.xaml
-11407045341
+21-520149990
 
-41062099356
+24-1571515576
 246-909644672
-MainWindow.xaml;
+AdminManager\ManageKoiBreedsWindow.xaml;AdminManager\ManageOrderDetailWindow.xaml;AdminManager\ManageOrderWindow.xaml;AdminManager\ManageProductWindow.xaml;AdminManager\ManageShippingWindow.xaml;AdminManager\ManageSupplierWindow.xaml;AdminManager\ManageUserWindow.xaml;AdminManager\SaveWindow\SaveKoiBreedWindow.xaml;AdminManager\SaveWindow\SaveProductWindow.xaml;AdminManager\SaveWindow\SaveSupplierWindow.xaml;AdminManager\SaveWindow\SaveUserWindow.xaml;Customer\CustomerMainWindow.xaml;Customer\CustomerProfileWindow.xaml;Customer\OrderDetailsWindow.xaml;Customer\OrdersWindow.xaml;Customer\ShippingDetailWindow.xaml;Customer\ViewProductWindow.xaml;LoginWindow.xaml;MainWindow.xaml;RegisterWindow.xaml;Staff\ExecuteShippingProgressWindow.xaml;
 
 False
 

@@ -22,4 +22,18 @@ public partial class Order
     public virtual ICollection<Shipping> Shippings { get; set; } = new List<Shipping>();
 
     public virtual User User { get; set; } = null!;
+    public string StatusDescription
+    {
+        get
+        {
+            return Status switch
+            {
+                0 => "Pending",
+                1 => "Accepted",
+                2 => "Canceled",
+                3 => "Completed",
+                _ => "Unknown"
+            };
+        }
+    }
 }

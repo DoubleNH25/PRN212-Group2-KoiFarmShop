@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\Documents\GitHub\PRN212-Group2-KoiFarmShop\KoiFarmShop\obj\Debug\net8.0-windows\
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop\obj\Debug\net8.0-windows\
 KoiFarmShop
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Admin\Documents\GitHub\PRN212-Group2-KoiFarmShop\KoiFarmShop\App.xaml
-11407045341
+C:\Users\Admin\source\repos\2024KoiFarmShop\KoiFarmShop\App.xaml
+21-520149990
 
-6-1997188147
-2461400881291
-MainWindow.xaml;
+26-335835783
+246-909644672
+AdminManager\ManageKoiBreedsWindow.xaml;AdminManager\ManageOrderDetailWindow.xaml;AdminManager\ManageOrderWindow.xaml;AdminManager\ManageProductWindow.xaml;AdminManager\ManageShippingWindow.xaml;AdminManager\ManageSupplierWindow.xaml;AdminManager\ManageUserWindow.xaml;AdminManager\SaveWindow\SaveKoiBreedWindow.xaml;AdminManager\SaveWindow\SaveProductWindow.xaml;AdminManager\SaveWindow\SaveSupplierWindow.xaml;AdminManager\SaveWindow\SaveUserWindow.xaml;Customer\CustomerMainWindow.xaml;Customer\CustomerProfileWindow.xaml;Customer\OrderDetailsWindow.xaml;Customer\OrdersWindow.xaml;Customer\ShippingDetailWindow.xaml;Customer\ViewProductWindow.xaml;LoginWindow.xaml;MainWindow.xaml;RegisterWindow.xaml;Staff\ExecuteShippingProgressWindow.xaml;
 
-False
+True
 

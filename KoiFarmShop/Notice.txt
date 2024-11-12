@@ -1,0 +1,6 @@
+﻿Thêm chức năng search
+Ở CustomerOrderWindow thì sẽ hiện thị 3 bảng là Order, OrderDetail và Product để người xem và giới hạn số thông tin hiển thị ở những bảng này cho customer
+
+chú ý order repository có một số lỗi
+chú ý delete order detail và delete order
+đặc biệt deleteorderdetail

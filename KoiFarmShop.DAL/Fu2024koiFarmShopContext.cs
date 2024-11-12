@@ -17,19 +17,19 @@ public partial class Fu2024koiFarmShopContext : DbContext
     {
     }
 
-    public virtual DbSet<KoiBreed> KoiBreeds { get; set; } = null!;
+    public virtual DbSet<KoiBreed> KoiBreeds { get; set; }
 
-    public virtual DbSet<Order> Orders { get; set; } = null!;
+    public virtual DbSet<Order> Orders { get; set; }
 
-    public virtual DbSet<OrderDetail> OrderDetails { get; set; } = null!;
+    public virtual DbSet<OrderDetail> OrderDetails { get; set; }
 
-    public virtual DbSet<Product> Products { get; set; } = null!;
+    public virtual DbSet<Product> Products { get; set; }
 
-    public virtual DbSet<Shipping> Shippings { get; set; } = null!;
+    public virtual DbSet<Shipping> Shippings { get; set; }
 
-    public virtual DbSet<Supplier> Suppliers { get; set; } = null!;
+    public virtual DbSet<Supplier> Suppliers { get; set; }
 
-    public virtual DbSet<User> Users { get; set; } = null!;
+    public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -74,22 +74,23 @@ public partial class Fu2024koiFarmShopContext : DbContext
 
         modelBuilder.Entity<OrderDetail>(entity =>
         {
-            entity.HasKey(e => new { e.OrderId, e.ProductId }).HasName("PK__OrderDet__08D097C1A54BB239");
+            entity.HasKey(e => e.OrderDetailId).HasName("PK__OrderDet__D3B9D30C14C33335");
 
+            entity.Property(e => e.OrderDetailId).HasColumnName("OrderDetailID");
             entity.Property(e => e.OrderId).HasColumnName("OrderID");
-            entity.Property(e => e.ProductId).HasColumnName("ProductID");
             entity.Property(e => e.Price).HasColumnType("money");
+            entity.Property(e => e.ProductId).HasColumnName("ProductID");
             entity.Property(e => e.Status).HasDefaultValue((byte)2);
 
             entity.HasOne(d => d.Order).WithMany(p => p.OrderDetails)
                 .HasForeignKey(d => d.OrderId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__OrderDeta__Order__5070F446");
+                .HasConstraintName("FK__OrderDeta__Order__72C60C4A");
 
             entity.HasOne(d => d.Product).WithMany(p => p.OrderDetails)
                 .HasForeignKey(d => d.ProductId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__OrderDeta__Produ__5165187F");
+                .HasConstraintName("FK__OrderDeta__Produ__73BA3083");
         });
 
         modelBuilder.Entity<Product>(entity =>

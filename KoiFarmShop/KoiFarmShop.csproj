@@ -18,10 +18,4 @@
     </None>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Customer\" />
-    <Folder Include="AdminManager\" />
-    <Folder Include="Staff\" />
-  </ItemGroup>
-
 </Project>

@@ -17,15 +17,18 @@ namespace KoiFarmShop.DAL.Repositories
             {
                 using var db = new Fu2024koiFarmShopContext();
                 var p1 = db.Products.SingleOrDefault(b => b.ProductId == p.ProductId);
-                db.Products.Remove(p1);
-                db.SaveChanges();
+                if (p1 != null)
+                {
+                    p1.Status = 0;
+                    db.SaveChanges();
+                }
             }
             catch (Exception ex)
             {
                 throw new Exception(ex.Message);
             }
         }
-        public Product? GetProductById(int id)  
+        public Product? GetProductById(int id)
         {
             using var db = new Fu2024koiFarmShopContext();
             return db.Products.FirstOrDefault(b => b.ProductId.Equals(id));
